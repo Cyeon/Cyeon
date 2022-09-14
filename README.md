@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyeon&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyeon&layout=Demo&theme=vue)
+
+출처: https://eunhee-programming.tistory.com/244 [코드짜는 문과녀:티스토리]
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyeon)](https://solved.ac/cyeon/)
