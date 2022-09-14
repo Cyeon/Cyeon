@@ -1,4 +1,5 @@
 ### Hi there 👋
+<div align="center">
 
 <!--
 **Cyeon/Cyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +21,4 @@ Here are some ideas to get you started:
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyeon)](https://solved.ac/cyeon/)
 
+</div>
