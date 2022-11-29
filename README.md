@@ -1,6 +1,7 @@
 ### Hi there 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:93F1C3,100:05795D&height=250&text=Cyeon&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
 <div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:93F1C3,100:05795D&height=250&text=Cyeon&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
 
 <!--
 **Cyeon/Cyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +23,5 @@ Here are some ideas to get you started:
 </br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cyeon)](https://solved.ac/cyeon/)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:93F1C3,100:05795D&height=250&animation=fadeIn)
 </div>
