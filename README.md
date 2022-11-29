@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:93F1C3,100:05795D&height=300&text=Cyeon&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:93F1C3,100:05795D&height=250&text=Cyeon&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35)
 <div align="center">
 
 <!--
